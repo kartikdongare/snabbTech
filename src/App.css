@@ -1,0 +1,50 @@
+.auth-banner{
+  width: 100%;
+  object-fit: contain;
+}
+.auth-btn1{
+  border: none;
+  background-color: white;
+  cursor: pointer;
+  font-weight: 200;
+  font-size: 1rem;
+  height: 2.5rem;
+}
+.active{
+  border-bottom: 4px solid red;
+}
+.flex-box{
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+  gap: 4rem;
+}
+.auth-btn2{
+  border: 1px solid gray;
+  border-radius: 100px;
+  height: 3rem;
+  width: 12rem;
+  font-size: 1.1rem;
+}
+.auth-h1{
+  /* margin-top: 13px; */
+  font-size: 30px;
+}
+
+.sectThiBtn{
+  /* display: flex; */
+width: 327px;
+padding: 18px 40px;
+
+border-radius: 35px;
+border: 0.5px solid #1F1F1F;
+color: #1F1F1F;
+
+/* button desktop */
+font-family: BIZ UDPGothic;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 151.2%; /* 22.68px */
+}
